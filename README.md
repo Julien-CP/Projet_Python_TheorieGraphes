@@ -1,4 +1,4 @@
-# Projet de Recherche Opérationnelle
+# Projet de Théorie des graphes
 
 Projet réalisé dans le cadre du cours *Théorie des graphes* — L3 Mathématiques à EFREI Paris.
 
